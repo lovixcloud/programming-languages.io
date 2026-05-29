@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 📘 The Comprehensive Programming Languages Bible
